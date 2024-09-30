@@ -1,5 +1,4 @@
-# Software/Platform Name
-Virtual simulation experiment: cluster construction and Keggin-type ion cluster mass spectrometry detection
+# Software/Platform Name/nVirtual simulation experiment: cluster construction and Keggin-type ion cluster mass spectrometry detection
 Owner: Ning Zhang; Deli He; Miao Bian
 1. College of Chemistry and Chemical Engineering, Hunan Normal University, Changsha, 410081, Hunan, P.R. China
 2. College of Chemistry and Chemical Engineering, Central South University of Forestry and Technology, Changsha, 410004, Hunan, P.R. China
