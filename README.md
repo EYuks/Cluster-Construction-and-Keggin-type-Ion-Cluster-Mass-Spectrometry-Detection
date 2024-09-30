@@ -24,6 +24,7 @@ This software/platform has applied for copyright protection:
 # 4. Software/Platform Installation and Usage Instructions
 GitHub Repository: EYuks/Cluster-Construction-and-Keggin-type-Ion-Cluster-Mass-Spectrometry-Detection (github.com)
 &ensp;1）Switch to the Master branch and download the ‘Cluster Construction and Keggin-type Ion Cluster Mass Spectrometry Detection.zip’ file completely, as shown in the figure below. 
+
 ![image](https://github.com/user-attachments/assets/26a268b1-b53c-4501-afcf-8bba88e8e8b8)
 
  
